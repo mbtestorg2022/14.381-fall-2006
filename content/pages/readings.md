@@ -28,38 +28,234 @@ Readings by Topic
 
 ### Part I
 
-| TOPICS | READINGS |
-| --- | --- |
-| {{< td-colspan 2 >}}**A. Brief review of probability**{{< /td-colspan >}} ||
-| Brief review of probability | Casella and Berger. _Statistical Inference._ Chapters 1-4. |
-| {{< td-colspan 2 >}}**B. Random samples and asymptotic methods**{{< /td-colspan >}} ||
-| Sampling and sums of random variables | Casella and Berger. _Statistical Inference._ Sections 5.1-5.3. |
-| Laws of large numbers and central limit theorem | Casella and Berger. _Statistical Inference._ Section 5.5. |
-| {{< td-colspan 2 >}}**C. Statistical Theory**{{< /td-colspan >}} ||
-| Point estimation | Casella and Berger. _Statistical Inference._ Sections 7.2 and 6.2.1. |
-| Evaluation of estimators: Unbiasedness, sufficiency, consistency, and the Cramer-Rao theorem | Casella and Berger. _Statistical Inference._ Sections 7.3, 6.2.1, 6.2.2, and 10.1. |
-| Interval estimation | Casella and Berger. _Statistical Inference._ Chapter 9 and section 10.4. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**A. Brief review of probability**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Brief review of probability
+{{< tdclose >}}
+{{< tdopen >}}
+Casella and Berger. _Statistical Inference._ Chapters 1-4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**B. Random samples and asymptotic methods**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Sampling and sums of random variables
+{{< tdclose >}}
+{{< tdopen >}}
+Casella and Berger. _Statistical Inference._ Sections 5.1-5.3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laws of large numbers and central limit theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Casella and Berger. _Statistical Inference._ Section 5.5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**C. Statistical Theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Point estimation
+{{< tdclose >}}
+{{< tdopen >}}
+Casella and Berger. _Statistical Inference._ Sections 7.2 and 6.2.1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Evaluation of estimators: Unbiasedness, sufficiency, consistency, and the Cramer-Rao theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Casella and Berger. _Statistical Inference._ Sections 7.3, 6.2.1, 6.2.2, and 10.1.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Interval estimation
+{{< tdclose >}}
+{{< tdopen >}}
+Casella and Berger. _Statistical Inference._ Chapter 9 and section 10.4.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Part II
 
-| TOPICS | READINGSS |
-| --- | --- |
-| {{< td-colspan 2 >}}**D. Fundamentals of regression**{{< /td-colspan >}} ||
-| Regression in economics |  {{< br >}}{{< br >}} Greene. _Econometric Analysis._ Chapters 2 and 3 (skim chapters 7 and 8.) {{< br >}}{{< br >}} Varian, H. "Econometrics." Chapter 12 in _Microeconomic Analysis_. 3rd ed. New York, NY: W.W. Norton and Company, 1992, pp. 198-214. ISBN: 9780393957358. {{< br >}}{{< br >}} Newey, W. "Convergence Rates and Asymptotic Normality for Series Estimators." _Journal of Econometrics_ 79 (1997): 147-168. {{< br >}}{{< br >}} [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262100717) Judd, K. "Approximation Methods." Chapter 6 in [_Numerical Methods in Economics_](https://mitpress.mit.edu/9780262100717). Cambridge, MA: MIT Press, 1998, pp. 195-249. ISBN: 9780262100717. {{< br >}}{{< br >}}  |
-| Best linear predictor |
-| Best linear approximation |
-| Conditional expectation function |
-| Building functional forms |
-| {{< td-colspan 2 >}}**E. Regression in finite samples**{{< /td-colspan >}} ||
-| Basic regression algebra | Greene. _Econometric Analysis._ Chapters 4 and 6. |
-| Gauss-Markov optimality |
-| Finite-sample inference under normality and non-normality |
-| {{< td-colspan 2 >}}**F. Regression in large samples**{{< /td-colspan >}} ||
-| Consistency |  {{< br >}}{{< br >}} Greene. _Econometric Analysis._ Chapters 5, 6, 11, and 12. {{< br >}}{{< br >}} Newey, W. "Asymptotic Theory of Least Squares." 14.382 Lecture Notes, Spring 2000. {{< br >}}{{< br >}} Remarks on normality ([PDF]({{< baseurl >}}/resources/norm_remarks)) {{< br >}}{{< br >}}  |
-| Asymptotic Normality |
-| Heteroscedasticity |
-| Autocorrelation |
-| {{< td-colspan 2 >}}**G. Special topics (if time permits)**{{< /td-colspan >}} |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGSS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**D. Fundamentals of regression**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Regression in economics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Greene. _Econometric Analysis._ Chapters 2 and 3 (skim chapters 7 and 8.)
+
+Varian, H. "Econometrics." Chapter 12 in _Microeconomic Analysis_. 3rd ed. New York, NY: W.W. Norton and Company, 1992, pp. 198-214. ISBN: 9780393957358.
+
+Newey, W. "Convergence Rates and Asymptotic Normality for Series Estimators." _Journal of Econometrics_ 79 (1997): 147-168.
+
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262100717) Judd, K. "Approximation Methods." Chapter 6 in [_Numerical Methods in Economics_](https://mitpress.mit.edu/9780262100717). Cambridge, MA: MIT Press, 1998, pp. 195-249. ISBN: 9780262100717.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Best linear predictor
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Best linear approximation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Conditional expectation function
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Building functional forms
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**E. Regression in finite samples**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Basic regression algebra
+{{< tdclose >}}
+{{< tdopen >}}
+Greene. _Econometric Analysis._ Chapters 4 and 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Gauss-Markov optimality
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Finite-sample inference under normality and non-normality
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**F. Regression in large samples**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Consistency
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Greene. _Econometric Analysis._ Chapters 5, 6, 11, and 12.
+
+Newey, W. "Asymptotic Theory of Least Squares." 14.382 Lecture Notes, Spring 2000.
+
+Remarks on normality ([PDF]({{< baseurl >}}/resources/norm_remarks))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Asymptotic Normality
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Heteroscedasticity
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Autocorrelation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**G. Special topics (if time permits)**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Additional Readings
 -------------------

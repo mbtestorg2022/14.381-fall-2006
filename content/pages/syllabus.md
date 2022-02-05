@@ -50,11 +50,48 @@ You can also find the material in any standard text on regression.
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 40% (15% in Part 1 and 25% in Part 2) |
-| Midterm Part I | 35% |
-| Final exam | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+40% (15% in Part 1 and 25% in Part 2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Part I
+{{< tdclose >}}
+{{< tdopen >}}
+35%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final exam
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Recommended Citation
 --------------------
