@@ -12,4 +12,4 @@ In this class, we do not need to worry about measurability, since it is not esse
 Introduction to R
 -----------------
 
-This document composed by Grant Farnsworth explains how to use R, a free statistics language. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf))
+This document composed by Grant Farnsworth explains how to use R, a free statistics language. ([PDF](http://cran.r-project.org/doc/contrib/Farnsworth-EconometricsInR.pdf))
